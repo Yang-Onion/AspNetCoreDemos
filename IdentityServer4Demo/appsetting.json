@@ -1,0 +1,6 @@
+{
+  "Certificates": {
+          "CerPath": "pfx\\orderservice.pfx",
+          "Password": "123456"
+        }
+    }
